@@ -1,8 +1,8 @@
 {
-    "name": "Invite post likers to like page for Facebook™",
+    "name": "Invite Facebook post likers to like page",
     "description": "Mass invite all your friends and everyone who liked your post to like your Facebook Pages or Events with one click.",
     "manifest_version": 2,
-    "version": "2",
+    "version": "3",
 	"icons": { 
 		"128": "icons/icon128.png"
 	},
